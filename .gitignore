@@ -1,4 +1,10 @@
 __pycache__/
 *.pyc
 *~
-
+*.pth
+*.zip
+*.zip.1
+*.dat
+Face_Enhancement/
+Global/
+Face_Detection/
