@@ -8,3 +8,5 @@ __pycache__/
 Face_Enhancement/
 Global/
 Face_Detection/
+results/
+data/
